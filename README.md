@@ -1,6 +1,7 @@
 ## Olá, eu sou Daniel Henrique de Moura.
   
 - 👨‍💻 Estudante de Ciência da computação.
+- 💻 Universidade Unochapecó 
 - 🚀 Tenho conhecimento Basico em C e C++.    
 - 📧 Contate-me por email: danielmouraunochapeco@gmail.com   
 - 📲 Contate-me no whatsapp: (49) 9962-8037.      
