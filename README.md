@@ -2,8 +2,7 @@
   
 - 👨‍💻 Estudante de Ciência da computação.
 - 💻 Universidade Unochapecó 
-- 🚀 Tenho conhecimento Basico em C e C++.    
-- 📧 Contate-me por email: danielmouraunochapeco@gmail.com   
+- 🚀 Tenho conhecimento Basico em C e C++.     
 - 📲 Contate-me no whatsapp: (49) 9962-8037.      
 
  <a href="https://www.instagram.com/danielhen67/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
