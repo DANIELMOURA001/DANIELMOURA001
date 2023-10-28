@@ -17,4 +17,6 @@
 </body>    
 </html> 
        
-![Snake animation](https://github.com/imthedaniel/imthedaniel/blob/output/github-contribution-grid-snake.svg)     
+![              - name: generate-snake-game-from-github-contribution-grid
+                uses: Platane/snk@v3.2.0
+            )     
