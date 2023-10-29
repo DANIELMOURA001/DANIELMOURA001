@@ -1,7 +1,7 @@
 ## Olá, eu sou Daniel Henrique de Moura.
   
 - 👨‍💻 Estudante de Ciência da computação
-- 💻 Universidade Unochapecó 
+- 🔰 Universidade Unochapecó 
 - 🚀 Conhecimento Basico C , C++  
 
  <a href="https://www.instagram.com/danielhen67/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
