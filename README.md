@@ -1,6 +1,6 @@
 ## Olá, eu sou Daniel Henrique de Moura.
   
-- 👨‍💻 Estudante de Ciência da computação
+- 👨‍💻 Estudante de Ciência da computação 
 - 🔰 Universidade Unochapecó 
 - 🚀 Conhecimento Basico C , C++  
 
